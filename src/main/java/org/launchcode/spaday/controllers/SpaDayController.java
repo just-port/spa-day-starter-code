@@ -32,15 +32,15 @@ public class SpaDayController {
                 "<input type = 'text' name = 'name'>" +
                 "<br>Skin type: <br>" +
                 "<select name = 'skintype'>" +
-                "<option value = 'Oily'>Oily</option>" +
-                "<option value = 'Combination'>Combination</option>" +
-                "<option value = 'Normal'>Normal</option>" +
-                "<option value = 'Dry'>Dry</option>" +
+                "<option value = 'oily'>Oily</option>" +
+                "<option value = 'combination'>Combination</option>" +
+                "<option value = 'normal'>Normal</option>" +
+                "<option value = 'dry'>Dry</option>" +
                 "</select><br>" +
                 "Manicure or Pedicure? <br>" +
                 "<select name = 'manipedi'>" +
-                "<option value = 'Manicure'>Manicure</option>" +
-                "<option value = 'Pedicure'>Pedicure</option>" +
+                "<option value = 'manicure'>Manicure</option>" +
+                "<option value = 'pedicure'>Pedicure</option>" +
                 "</select><br>" +
                 "<input type = 'submit' value = 'Submit'>" +
                 "</form>";
